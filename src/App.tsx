@@ -1,7 +1,9 @@
 function App() {
 	return (
 		<>
-			<div>Quest</div>
+			<main>
+				<h1>Types Quest I</h1>
+			</main>
 		</>
 	);
 }
